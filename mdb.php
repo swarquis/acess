@@ -60,9 +60,9 @@ for($month=1; $month<=12; $month++){
 	<table cellpadding="0" cellspacing="0" border=1 bgcolor="#7FC9FF" width=40% style="text-align:center;margin:auto;font-weight:bold">
 		<h4 style="text-align:center"><?php echo "2017年".$month."月记录" ?></h4>
 		<tr style="background-color:#abcdef">
-			<td>入院人数</td>
-			<td>时间</td>
-			<td>出院人数</td>
+			<td>1</td>
+			<td>2</td>
+			<td>3</td>
 		</tr>
 		
 			<?php for($day=1; $day<=count($days[$month]); $day++): ?>
